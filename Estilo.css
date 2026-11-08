@@ -1,0 +1,42 @@
+/* CSS 
+/* Estilo geral do corpo */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0ff; /* cor suave */
+  text-align: center;
+}
+
+/* Seção Filmes - usando ID */
+#filmes {
+  background-color: #ffe4e1;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+/* Seção Música - usando ID */
+#musica {
+  background-color: #e0ffe0;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+/* Seção Games - usando ID */
+#games {
+  background-color: #e0f0ff;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 10px;
+}
+
+/* Estilo para os títulos h2 */
+h2 {
+  color: #333;
+  font-size: 24px;
+}
+
+/* Estilo para imagens */
+img {
+  border-radius: 15px;
+}
