@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Meu Porto de Entretenimento Digital - AMYRIS</title>
+<!-- CSS EXTERNO -->
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="estilo.css">
+<!-- CSS INTERNO - Etapa 2 -->
+<style>
+  /* CSS Interno: estilo só para esta página */
+  header { background-color: #6a5acd; color: white; text-align: center; padding: 20px; }
+  h1 { font-size: 32px; }
+</style>
+</head>
+<body>
+
+<header>
+  <!-- CSS INLINE - Etapa 2 -->
+  <h1 style="color: #fff; font-family: Arial;">Meu Porto de Entretenimento Digital</h1>
+  <p>Por AMYRIS - DS I</p>
+</header>
+
+<!-- SEÇÃO 1 -->
+<section id="filmes">
+  <h2>Filmes e Séries</h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/3171/3171663.png" width="150" alt="Filmes">
+  <p>Adoro assistir filmes de aventura e séries de suspense. Meu favorito é Stranger Things, porque mistura amizade, mistério e tecnologia.</p>
+  <a href="https://www.netflix.com" target="_blank">Ver na Netflix</a>
+</section>
+
+<!-- SEÇÃO 2 -->
+<section id="musica">
+  <h2>Música e Podcasts</h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/727/727269.png" width="150" alt="Música">
+  <p>Gosto de ouvir pop e lo-fi enquanto estudo programação. Também escuto podcasts sobre tecnologia e desenvolvimento de sistemas.</p>
+  <a href="https://open.spotify.com" target="_blank">Ouvir no Spotify</a>
+</section>
+
+<!-- SEÇÃO 3 -->
+<section id="games">
+  <h2>Games e Tecnologia</h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="150" alt="Games">
+  <p>Games me inspiram a criar sistemas. Gosto de jogos de construção e estratégia, que ajudam a pensar como uma programadora.</p>
+  <a href="https://store.steampowered.com" target="_blank">Ver na Steam</a>
+</section>
+
+<footer>
+  <p>Feito por AMYRIS - ETEC DS I - Agenda 13</p>
+</footer>
+
+</body>
+</html>
